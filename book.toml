@@ -1,16 +1,16 @@
 [book]
-authors = ["josh rotenberg"]
+authors = ["Chuangji Li"]
 language = "en"
 multilingual = false
 src = "src"
-title = "wtd-bayarea"
+title = "Almost All about Chuangji Li"
 
 [rust]
 edition = "2021"
 
 [output.html]
-git-repository-url = "https://github.com/joshrotenberg/wtd-bayarea-mdbook/tree/main"
-edit-url-template = "https://github.com/joshrotenberg/wtd-bayarea-mdbook/edit/main/{path}"
+git-repository-url = ""
+edit-url-template = ""
 
 [output.html.search]
 limit-results = 20
