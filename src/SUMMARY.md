@@ -9,9 +9,12 @@
     - [Project 3](project3.md)
     - [Project 4](project4.md)
 - [Courses](courses.md)
+- [Publication]()
+
 
 # Posts
-- [Statistical Learning]()
+- [Probability and Statistics]()
+- [Measure Theory]()
 - [Machine Learning]()
 - [Natural Language Processing]()
 
