@@ -1,7 +1,35 @@
 # Probability and Statistics
 
-## Basics
-
-## Statistical Inference
-
-## Statistical Models and Methods
+- **Probability**
+    - Probability
+    - Random Variables and Distributions
+    - Expectation and Variance
+    - Inequalities
+    - Convergence
+- **Statistical Inference**
+    - Point Estimation
+    - Hypothesis Test
+    - Confidence Interval
+    - Bayesian Inference
+- **Statistical Models and Methods**
+    - Regression and Its Generalizations
+        - Regression Basics
+        - Diagnostics
+        - Model and Variable Evaluation
+        - Smoothing 
+        - Simulation and Bootstrap
+        - Nonparametric Regression
+        - Splines
+        - Generalized Linear Models
+    - Latent Structures and Models
+        - Mixture Models
+        - Factor Models
+    - Causal Inference
+        - Directed Graphs
+        - Undirected Graphs
+        - Casual Effects
+    - Simulation Methods
+        - Monte Carlo
+        - Markov Chain Monte Carlo
+        - Stochastic Calculus
+    - Time Series Analysis
