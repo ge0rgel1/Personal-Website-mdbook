@@ -3,7 +3,7 @@ authors = ["Chuangji Li"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Almost All about Chuangji Li"
+title = "Almost Everything about Chuangji Li"
 
 [rust]
 edition = "2021"
