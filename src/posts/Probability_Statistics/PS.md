@@ -1,9 +1,9 @@
 # Probability and Statistics
 
 - **Probability**
-    - [Probability]()
-    - [Random Variables and Distributions](Chapter_2_Random Variables and Distributions.pdf)
-    - [Expectation and Variance](Chapter_3_Expectation, Variances, and Covariance.pdf)
+    - [Probability](Chapter_1_Basics.pdf)
+    - [Random Variables and Distributions](Chapter_2_Random_Variables_and_Distributions.pdf)
+    - [Expectation and Variance](Chapter_3_Expectation,_Variances,_and_Covariance.pdf)
     - [Inequalities](Chapter_4_Inequalities.pdf)
     - [Convergence](Chapter_5_Convergence.pdf)
 - **Statistical Inference**
