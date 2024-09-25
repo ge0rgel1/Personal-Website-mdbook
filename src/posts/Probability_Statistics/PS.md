@@ -1,11 +1,11 @@
 # Probability and Statistics
 
 - **Probability**
-    - Probability
-    - Random Variables and Distributions
-    - Expectation and Variance
-    - Inequalities
-    - Convergence
+    - [Probability]()
+    - [Random Variables and Distributions](Chapter_2_Random Variables and Distributions.pdf)
+    - [Expectation and Variance](Chapter_3_Expectation, Variances, and Covariance.pdf)
+    - [Inequalities](Chapter_4_Inequalities.pdf)
+    - [Convergence](Chapter_5_Convergence.pdf)
 - **Statistical Inference**
     - Point Estimation
     - Hypothesis Test
